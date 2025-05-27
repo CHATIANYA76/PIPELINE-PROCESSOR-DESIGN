@@ -20,3 +20,4 @@ The Instruction Fetch (IF) stage retrieves the instruction from memory based on 
 
 OUTPUT:
 
+<img width="786" alt="Image" src="https://github.com/user-attachments/assets/12eabff8-afe6-471b-8f3d-f9f23cae9636" />
